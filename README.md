@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**jacobwoffenden/jacobwoffenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👷 I'm currently working on [@ministryofjustice](https://github.com/ministryofjustice/)'s [Analytical Platform](https://user-guidance.analytical-platform.service.justice.gov.uk/) and (prototype) [Observability Platform
+](https://user-guide.observability-platform.service.justice.gov.uk/)
 
-Here are some ideas to get you started:
+📜 Previously I've worked at [@baesystemsdigital](https://github.com/baesystemsdigital) and [@bjss](https://github.com/bjss)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:
+  - AWS
+  - Containers
+  - Development Containers
+  - GitHub Actions
+  - Google Cloud Platform
+  - Kubernetes
+  - Terraform
+
+📫 How to reach me:
+  - [Email](mailto:jacob@woffenden.io?subject=GitHub)
+  - [LinkedIn](https://uk.linkedin.com/in/jacobwoffenden)
